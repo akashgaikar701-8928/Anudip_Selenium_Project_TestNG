@@ -1,0 +1,119 @@
+2025-12-16 21:20:06 INFO  LoginTest - Browser launched
+2025-12-16 21:20:06 INFO  LoginTest - Navigated to login page
+2025-12-16 21:20:06 INFO  LoginTest - Entered username
+2025-12-16 21:20:06 INFO  LoginTest - Entered password
+2025-12-16 21:20:06 INFO  LoginTest - Clicked login button
+2025-12-16 21:41:08 INFO  AllTestsPart1 - TC01: Verify login page title
+2025-12-16 21:41:08 INFO  AllTestsPart1 - ✔ TC01 Passed
+2025-12-16 21:41:08 INFO  AllTestsPart1 - TC02: Login with valid credentials
+2025-12-16 21:41:22 INFO  AllTestsPart1 - ✔ TC02 Passed
+2025-12-16 21:41:22 INFO  AllTestsPart1 - TC03: Verify Products page title
+2025-12-16 21:41:22 INFO  AllTestsPart1 - ✔ TC03 Passed
+2025-12-16 21:41:22 INFO  AllTestsPart1 - TC04: Verify product list displayed
+2025-12-16 21:41:22 INFO  AllTestsPart1 - ✔ TC04 Passed
+2025-12-16 21:41:22 INFO  AllTestsPart1 - TC05: Add first product
+2025-12-16 21:41:22 INFO  AllTestsPart1 - ✔ TC05 Passed
+2025-12-16 21:41:22 INFO  AllTestsPart1 - TC06: Add second product
+2025-12-16 21:41:23 INFO  AllTestsPart1 - ✔ TC06 Passed
+2025-12-16 21:41:23 INFO  AllTestsPart1 - TC07: Verify cart badge count
+2025-12-16 21:41:23 INFO  AllTestsPart1 - ✔ TC07 Passed
+2025-12-16 21:41:23 INFO  AllTestsPart1 - TC08: Open cart page
+2025-12-16 21:41:23 INFO  AllTestsPart1 - ✔ TC08 Passed
+2025-12-16 21:41:23 INFO  AllTestsPart1 - TC09: Verify cart items
+2025-12-16 21:41:23 INFO  AllTestsPart1 - ✔ TC09 Passed
+2025-12-16 21:41:23 INFO  AllTestsPart1 - TC10: Remove one item from cart
+2025-12-16 21:41:23 INFO  AllTestsPart1 - ✔ TC10 Passed
+2025-12-16 21:41:23 INFO  AllTestsPart1 - TC11: Verify cart after removal
+2025-12-16 21:41:23 INFO  AllTestsPart1 - ✔ TC11 Passed
+2025-12-16 21:41:23 INFO  AllTestsPart1 - TC12: Continue shopping
+2025-12-16 21:41:23 INFO  AllTestsPart1 - ✔ TC12 Passed
+2025-12-16 21:41:23 INFO  AllTestsPart1 - TC13: Verify back on products page
+2025-12-16 21:41:23 INFO  AllTestsPart1 - ✔ TC13 Passed
+2025-12-16 21:41:23 INFO  AllTestsPart1 - TC14: Add product again
+2025-12-16 21:41:24 INFO  AllTestsPart1 - ✔ TC14 Passed
+2025-12-16 21:41:24 INFO  AllTestsPart1 - TC15: Open cart again
+2025-12-16 21:41:24 INFO  AllTestsPart1 - ✔ TC15 Passed
+2025-12-16 22:48:55 INFO  AllTestsPart1 - TC01: Verify login page title
+2025-12-16 22:48:56 INFO  AllTestsPart1 - ✔ TC01 Passed
+2025-12-16 22:48:56 INFO  AllTestsPart1 - TC02: Login with valid credentials
+2025-12-16 22:49:14 INFO  AllTestsPart1 - ✔ TC02 Passed
+2025-12-16 22:49:14 INFO  AllTestsPart1 - TC03: Verify Products page title
+2025-12-16 22:49:15 INFO  AllTestsPart1 - ✔ TC03 Passed
+2025-12-16 22:49:15 INFO  AllTestsPart1 - TC04: Verify product list displayed
+2025-12-16 22:49:15 INFO  AllTestsPart1 - ✔ TC04 Passed
+2025-12-16 22:49:15 INFO  AllTestsPart1 - TC05: Add first product
+2025-12-16 22:49:16 INFO  AllTestsPart1 - ✔ TC05 Passed
+2025-12-16 22:49:16 INFO  AllTestsPart1 - TC06: Add second product
+2025-12-16 22:49:16 INFO  AllTestsPart1 - ✔ TC06 Passed
+2025-12-16 22:49:16 INFO  AllTestsPart1 - TC07: Verify cart badge count
+2025-12-16 22:49:16 INFO  AllTestsPart1 - ✔ TC07 Passed
+2025-12-16 22:49:16 INFO  AllTestsPart1 - TC08: Open cart page
+2025-12-16 22:49:16 INFO  AllTestsPart1 - ✔ TC08 Passed
+2025-12-16 22:49:16 INFO  AllTestsPart1 - TC09: Verify cart items
+2025-12-16 22:49:17 INFO  AllTestsPart1 - ✔ TC09 Passed
+2025-12-16 22:49:17 INFO  AllTestsPart1 - TC10: Remove one item from cart
+2025-12-16 22:49:17 INFO  AllTestsPart1 - ✔ TC10 Passed
+2025-12-16 22:49:17 INFO  AllTestsPart1 - TC11: Verify cart after removal
+2025-12-16 22:49:17 INFO  AllTestsPart1 - ✔ TC11 Passed
+2025-12-16 22:49:17 INFO  AllTestsPart1 - TC12: Continue shopping
+2025-12-16 22:49:17 INFO  AllTestsPart1 - ✔ TC12 Passed
+2025-12-16 22:49:17 INFO  AllTestsPart1 - TC13: Verify back on products page
+2025-12-16 22:49:17 INFO  AllTestsPart1 - ✔ TC13 Passed
+2025-12-16 22:49:17 INFO  AllTestsPart1 - TC14: Add product again
+2025-12-16 22:49:17 INFO  AllTestsPart1 - ✔ TC14 Passed
+2025-12-16 22:49:17 INFO  AllTestsPart1 - TC15: Open cart again
+2025-12-16 22:49:17 INFO  AllTestsPart1 - ✔ TC15 Passed
+2025-12-16 22:49:50 INFO  AllTestsPart2 - TC16: Login for checkout flow
+2025-12-16 22:50:01 INFO  AllTestsPart2 - ✔ TC16 Passed
+2025-12-16 22:50:01 INFO  AllTestsPart2 - TC17: Add product to cart
+2025-12-16 22:50:01 INFO  AllTestsPart2 - ✔ TC17 Passed
+2025-12-16 22:50:01 INFO  AllTestsPart2 - TC18: Open cart page
+2025-12-16 22:50:01 INFO  AllTestsPart2 - ✔ TC18 Passed
+2025-12-16 22:50:01 INFO  AllTestsPart2 - TC19: Click checkout button
+2025-12-16 22:50:02 INFO  AllTestsPart2 - ✔ TC19 Passed
+2025-12-16 22:50:02 INFO  AllTestsPart2 - TC20: Enter checkout details
+2025-12-16 22:50:02 INFO  AllTestsPart2 - ✔ TC20 Passed
+2025-12-16 22:50:02 INFO  AllTestsPart2 - TC21: Continue checkout
+2025-12-16 22:50:03 INFO  AllTestsPart2 - ✔ TC21 Passed
+2025-12-16 22:50:03 INFO  AllTestsPart2 - TC22: Verify checkout overview page
+2025-12-16 22:50:03 INFO  AllTestsPart2 - ✔ TC22 Passed
+2025-12-16 22:50:03 INFO  AllTestsPart2 - TC23: Finish the order
+2025-12-16 22:50:03 INFO  AllTestsPart2 - ✔ TC23 Passed
+2025-12-16 22:50:03 INFO  AllTestsPart2 - TC24: Verify order confirmation
+2025-12-16 22:50:03 INFO  AllTestsPart2 - ✔ TC24 Passed
+2025-12-16 22:50:03 INFO  AllTestsPart2 - TC25: Back to products page
+2025-12-16 22:50:03 INFO  AllTestsPart2 - ✔ TC25 Passed
+2025-12-16 22:50:03 INFO  AllTestsPart2 - TC26: Verify cart is empty
+2025-12-16 22:50:17 INFO  AllTestsPart2 - ✔ TC26 Passed
+2025-12-16 22:50:17 INFO  AllTestsPart2 - TC27: Continue shopping
+2025-12-16 22:50:17 INFO  AllTestsPart2 - ✔ TC27 Passed
+2025-12-16 22:50:17 INFO  AllTestsPart2 - TC28: Verify products page again
+2025-12-16 22:50:17 INFO  AllTestsPart2 - ✔ TC28 Passed
+2025-12-16 22:50:17 INFO  AllTestsPart2 - TC29: Logout after checkout
+2025-12-16 22:50:18 INFO  AllTestsPart2 - ✔ TC29 Passed
+2025-12-16 22:50:18 INFO  AllTestsPart2 - TC30: Verify login page after logout
+2025-12-16 22:50:18 INFO  AllTestsPart2 - ✔ TC30 Passed
+2025-12-16 22:50:44 INFO  AllTestsPart2 - TC31: Login before Part3 tests
+2025-12-16 22:50:55 INFO  AllTestsPart2 - ✔ TC31 Passed
+2025-12-16 22:50:55 INFO  AllTestsPart2 - TC32: Open and close menu
+2025-12-16 22:50:56 INFO  AllTestsPart2 - ✔ TC32 Passed
+2025-12-16 22:50:56 INFO  AllTestsPart2 - TC33: Sort Name A to Z
+2025-12-16 22:50:56 INFO  AllTestsPart2 - ✔ TC33 Passed
+2025-12-16 22:50:56 INFO  AllTestsPart2 - TC34: Sort Name Z to A
+2025-12-16 22:50:56 INFO  AllTestsPart2 - ✔ TC34 Passed
+2025-12-16 22:50:56 INFO  AllTestsPart2 - TC35: Sort Price Low to High
+2025-12-16 22:50:57 INFO  AllTestsPart2 - ✔ TC35 Passed
+2025-12-16 22:50:57 INFO  AllTestsPart2 - TC36: Sort Price High to Low
+2025-12-16 22:50:57 INFO  AllTestsPart2 - ✔ TC36 Passed
+2025-12-16 22:50:57 INFO  AllTestsPart2 - TC37: Verify product images
+2025-12-16 22:50:57 INFO  AllTestsPart2 - ✔ TC37 Passed
+2025-12-16 22:50:57 INFO  AllTestsPart2 - TC38: Verify product names
+2025-12-16 22:50:57 INFO  AllTestsPart2 - ✔ TC38 Passed
+2025-12-16 22:50:57 INFO  AllTestsPart2 - TC39: Verify Add to Cart buttons
+2025-12-16 22:50:57 INFO  AllTestsPart2 - ✔ TC39 Passed
+2025-12-16 22:50:57 INFO  AllTestsPart2 - TC40: Logout
+2025-12-16 22:50:57 INFO  AllTestsPart2 - ✔ TC40 Passed
+2025-12-16 22:50:57 INFO  AllTestsPart2 - TC41: Invalid login
+2025-12-16 22:50:59 INFO  AllTestsPart2 - ✔ TC41 Passed
+2025-12-16 22:50:59 INFO  AllTestsPart2 - TC42: Verify error message
+2025-12-16 22:50:59 INFO  AllTestsPart2 - ✔ TC42 Passed

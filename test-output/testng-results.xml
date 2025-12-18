@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="42" passed="42" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-17T13:12:05 IST" name="SauceDemoAutomationSuite" finished-at="2025-12-17T13:15:00 IST" duration-ms="174927">
+    <groups>
+    </groups>
+    <test started-at="2025-12-17T13:12:05 IST" name="AllTestsPart1" finished-at="2025-12-17T13:13:47 IST" duration-ms="102578">
+      <class name="com.anudip.project.LoginAndCartTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:12:05 IST" name="setUp" finished-at="2025-12-17T13:13:18 IST" duration-ms="73151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC01_verifyLoginPageTitle()[pri:1, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:18 IST" name="TC01_verifyLoginPageTitle" finished-at="2025-12-17T13:13:30 IST" duration-ms="11919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_verifyLoginPageTitle -->
+        <test-method signature="TC02_loginValidUser()[pri:2, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:30 IST" name="TC02_loginValidUser" finished-at="2025-12-17T13:13:43 IST" duration-ms="12970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_loginValidUser -->
+        <test-method signature="TC03_verifyProductsPageTitle()[pri:3, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:43 IST" name="TC03_verifyProductsPageTitle" finished-at="2025-12-17T13:13:43 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_verifyProductsPageTitle -->
+        <test-method signature="TC04_verifyProductList()[pri:4, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:43 IST" name="TC04_verifyProductList" finished-at="2025-12-17T13:13:43 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_verifyProductList -->
+        <test-method signature="TC05_addFirstProduct()[pri:5, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:43 IST" name="TC05_addFirstProduct" finished-at="2025-12-17T13:13:44 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_addFirstProduct -->
+        <test-method signature="TC06_addSecondProduct()[pri:6, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:44 IST" name="TC06_addSecondProduct" finished-at="2025-12-17T13:13:44 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_addSecondProduct -->
+        <test-method signature="TC07_verifyCartBadgeCount()[pri:7, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:44 IST" name="TC07_verifyCartBadgeCount" finished-at="2025-12-17T13:13:44 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07_verifyCartBadgeCount -->
+        <test-method signature="TC08_openCartPage()[pri:8, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:44 IST" name="TC08_openCartPage" finished-at="2025-12-17T13:13:44 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08_openCartPage -->
+        <test-method signature="TC09_verifyCartItems()[pri:9, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:44 IST" name="TC09_verifyCartItems" finished-at="2025-12-17T13:13:45 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC09_verifyCartItems -->
+        <test-method signature="TC10_removeOneItem()[pri:10, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:45 IST" name="TC10_removeOneItem" finished-at="2025-12-17T13:13:45 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10_removeOneItem -->
+        <test-method signature="TC11_verifyCartAfterRemove()[pri:11, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:45 IST" name="TC11_verifyCartAfterRemove" finished-at="2025-12-17T13:13:45 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC11_verifyCartAfterRemove -->
+        <test-method signature="TC12_continueShopping()[pri:12, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:45 IST" name="TC12_continueShopping" finished-at="2025-12-17T13:13:45 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC12_continueShopping -->
+        <test-method signature="TC13_verifyBackOnProducts()[pri:13, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:45 IST" name="TC13_verifyBackOnProducts" finished-at="2025-12-17T13:13:45 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC13_verifyBackOnProducts -->
+        <test-method signature="TC14_addProductAgain()[pri:14, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:45 IST" name="TC14_addProductAgain" finished-at="2025-12-17T13:13:45 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC14_addProductAgain -->
+        <test-method signature="TC15_openCartAgain()[pri:15, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:45 IST" name="TC15_openCartAgain" finished-at="2025-12-17T13:13:45 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC15_openCartAgain -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.anudip.project.LoginAndCartTests@75b25825]" started-at="2025-12-17T13:13:45 IST" name="tearDown" finished-at="2025-12-17T13:13:47 IST" duration-ms="1885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.anudip.project.LoginAndCartTests -->
+    </test> <!-- AllTestsPart1 -->
+    <test started-at="2025-12-17T13:13:48 IST" name="AllTestsPart2" finished-at="2025-12-17T13:14:25 IST" duration-ms="37761">
+      <class name="com.anudip.project.CheckoutFlowTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:13:48 IST" name="setUp" finished-at="2025-12-17T13:13:59 IST" duration-ms="11660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC16_loginForCheckout()[pri:16, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:13:59 IST" name="TC16_loginForCheckout" finished-at="2025-12-17T13:14:11 IST" duration-ms="11313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC16_loginForCheckout -->
+        <test-method signature="TC17_addProduct()[pri:17, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:11 IST" name="TC17_addProduct" finished-at="2025-12-17T13:14:11 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC17_addProduct -->
+        <test-method signature="TC18_openCart()[pri:18, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:11 IST" name="TC18_openCart" finished-at="2025-12-17T13:14:11 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC18_openCart -->
+        <test-method signature="TC19_clickCheckout()[pri:19, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:11 IST" name="TC19_clickCheckout" finished-at="2025-12-17T13:14:11 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC19_clickCheckout -->
+        <test-method signature="TC20_enterCheckoutDetails()[pri:20, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:11 IST" name="TC20_enterCheckoutDetails" finished-at="2025-12-17T13:14:12 IST" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC20_enterCheckoutDetails -->
+        <test-method signature="TC21_continueCheckout()[pri:21, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:12 IST" name="TC21_continueCheckout" finished-at="2025-12-17T13:14:13 IST" duration-ms="893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC21_continueCheckout -->
+        <test-method signature="TC22_verifyCheckoutOverview()[pri:22, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:13 IST" name="TC22_verifyCheckoutOverview" finished-at="2025-12-17T13:14:13 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC22_verifyCheckoutOverview -->
+        <test-method signature="TC23_finishOrder()[pri:23, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:13 IST" name="TC23_finishOrder" finished-at="2025-12-17T13:14:13 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC23_finishOrder -->
+        <test-method signature="TC24_verifyOrderConfirmation()[pri:24, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:13 IST" name="TC24_verifyOrderConfirmation" finished-at="2025-12-17T13:14:13 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC24_verifyOrderConfirmation -->
+        <test-method signature="TC25_backToProducts()[pri:25, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:13 IST" name="TC25_backToProducts" finished-at="2025-12-17T13:14:14 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC25_backToProducts -->
+        <test-method signature="TC26_verifyCartEmptyAfterOrder()[pri:26, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:14 IST" name="TC26_verifyCartEmptyAfterOrder" finished-at="2025-12-17T13:14:24 IST" duration-ms="10229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC26_verifyCartEmptyAfterOrder -->
+        <test-method signature="TC27_continueShopping()[pri:27, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:24 IST" name="TC27_continueShopping" finished-at="2025-12-17T13:14:24 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC27_continueShopping -->
+        <test-method signature="TC28_verifyProductsPageAgain()[pri:28, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:24 IST" name="TC28_verifyProductsPageAgain" finished-at="2025-12-17T13:14:24 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC28_verifyProductsPageAgain -->
+        <test-method signature="TC29_logout()[pri:29, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:24 IST" name="TC29_logout" finished-at="2025-12-17T13:14:24 IST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC29_logout -->
+        <test-method signature="TC30_verifyLoginPageAfterLogout()[pri:30, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:24 IST" name="TC30_verifyLoginPageAfterLogout" finished-at="2025-12-17T13:14:24 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC30_verifyLoginPageAfterLogout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.anudip.project.CheckoutFlowTests@788fcafb]" started-at="2025-12-17T13:14:24 IST" name="tearDown" finished-at="2025-12-17T13:14:25 IST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.anudip.project.CheckoutFlowTests -->
+    </test> <!-- AllTestsPart2 -->
+    <test started-at="2025-12-17T13:14:25 IST" name="AllTestsPart3" finished-at="2025-12-17T13:15:00 IST" duration-ms="34344">
+      <class name="com.anudip.project.UIAndNegativeTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:25 IST" name="setUp" finished-at="2025-12-17T13:14:39 IST" duration-ms="13964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC31_loginForPart3()[pri:31, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:39 IST" name="TC31_loginForPart3" finished-at="2025-12-17T13:14:50 IST" duration-ms="10962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC31_loginForPart3 -->
+        <test-method signature="TC32_openAndCloseMenu()[pri:32, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:50 IST" name="TC32_openAndCloseMenu" finished-at="2025-12-17T13:14:51 IST" duration-ms="1182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC32_openAndCloseMenu -->
+        <test-method signature="TC33_sortNameAToZ()[pri:33, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:52 IST" name="TC33_sortNameAToZ" finished-at="2025-12-17T13:14:54 IST" duration-ms="2139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC33_sortNameAToZ -->
+        <test-method signature="TC34_sortNameZToA()[pri:34, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:54 IST" name="TC34_sortNameZToA" finished-at="2025-12-17T13:14:54 IST" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC34_sortNameZToA -->
+        <test-method signature="TC35_sortPriceLowToHigh()[pri:35, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:54 IST" name="TC35_sortPriceLowToHigh" finished-at="2025-12-17T13:14:55 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC35_sortPriceLowToHigh -->
+        <test-method signature="TC36_sortPriceHighToLow()[pri:36, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:55 IST" name="TC36_sortPriceHighToLow" finished-at="2025-12-17T13:14:55 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC36_sortPriceHighToLow -->
+        <test-method signature="TC37_verifyProductImages()[pri:37, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:55 IST" name="TC37_verifyProductImages" finished-at="2025-12-17T13:14:55 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC37_verifyProductImages -->
+        <test-method signature="TC38_verifyProductNames()[pri:38, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:55 IST" name="TC38_verifyProductNames" finished-at="2025-12-17T13:14:55 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC38_verifyProductNames -->
+        <test-method signature="TC39_verifyAddToCartButtons()[pri:39, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:55 IST" name="TC39_verifyAddToCartButtons" finished-at="2025-12-17T13:14:55 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC39_verifyAddToCartButtons -->
+        <test-method signature="TC40_logout()[pri:40, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:55 IST" name="TC40_logout" finished-at="2025-12-17T13:14:56 IST" duration-ms="1026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC40_logout -->
+        <test-method signature="TC41_invalidLogin()[pri:41, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:56 IST" name="TC41_invalidLogin" finished-at="2025-12-17T13:14:57 IST" duration-ms="1086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC41_invalidLogin -->
+        <test-method signature="TC42_verifyErrorMessage()[pri:42, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:57 IST" name="TC42_verifyErrorMessage" finished-at="2025-12-17T13:14:57 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC42_verifyErrorMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.anudip.project.UIAndNegativeTests@5b444398]" started-at="2025-12-17T13:14:57 IST" name="tearDown" finished-at="2025-12-17T13:15:00 IST" duration-ms="2694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.anudip.project.UIAndNegativeTests -->
+    </test> <!-- AllTestsPart3 -->
+  </suite> <!-- SauceDemoAutomationSuite -->
+</testng-results>

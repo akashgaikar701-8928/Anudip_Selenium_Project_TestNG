@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SauceDemoAutomationSuite" verbose="2" parallel="false">
+
+    <!-- Run all test classes in order -->
+    <test name="AllTestsPart1">
+        <classes>
+          <class name="com.anudip.project.LoginAndCartTests"/>
+        </classes>
+    </test>
+
+    <test name="AllTestsPart2">
+        <classes>
+            <class name="com.anudip.project.CheckoutFlowTests"/>
+        </classes>
+    </test>
+
+    <test name="AllTestsPart3">
+        <classes>
+           <class name="com.anudip.project.UIAndNegativeTests"/>
+        </classes>
+    </test>
+
+</suite>
